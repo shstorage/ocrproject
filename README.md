@@ -1,1 +1,2 @@
-# ex1 project
+# ocr project
+## project start
